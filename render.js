@@ -23,7 +23,7 @@ const textElement = {
   }
 }
 
-// 渲染 DOM Elements
+// render
 function render(element, parentDom) {
   const { type, props } = element
 
